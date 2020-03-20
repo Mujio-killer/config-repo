@@ -1,5 +1,3 @@
-data:
-  env: config-client-dev
-  user:
-    username: mujio
-    password: 123
+env: config-client-dev
+username: mujio
+password: 123
