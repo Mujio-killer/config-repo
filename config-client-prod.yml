@@ -1,0 +1,5 @@
+data:
+  env: config-server-prod
+  user:
+    username: mujio
+    password: 123
